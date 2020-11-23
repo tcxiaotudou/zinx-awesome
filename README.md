@@ -1,0 +1,2 @@
+# zinx-awesome
+zinx project
